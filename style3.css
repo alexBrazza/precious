@@ -1,0 +1,120 @@
+.justify {
+    justify-content: center;
+}
+
+
+
+
+.bg-light {
+    background-color: #494949 !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    background-color: white;
+}
+.badge-pill{
+    border-radius: 5;
+    
+}
+
+/*Hover sur gandalf*/
+.gandalf {
+    justify-content: center;
+    
+}
+
+.g {
+    flex-direction: column;
+}
+.avatar {
+	position: relative;
+}
+
+.image {
+	opacity: 0.5;
+}
+
+.text {
+	position: absolute;
+	top: 1px;
+	left: 40px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.reward {
+	background-color: white;
+	opacity: 0.7;
+	border:10px solid white;
+	border-radius: 5px;
+}
+
+.number {
+	color: #f78031;
+}
+
+.name {
+	color: white;
+}
+
+
+.avatar:hover .image{
+	opacity: 1;
+}
+
+.avatar:hover .text{
+	top: 280px;
+}
+
+.avatar:hover .reward{
+	display: none;
+}
+
+
+/*Others */
+
+.scroll {
+    height: 75px;
+}
+
+.btn {
+    display: block;
+    margin: 0 auto;
+}
+
+.dropdown-divider{ 
+    border-top: 1px solid black;
+}
+
+.media-object {
+    justify-content: center;
+}
+
+.gollum {
+    margin-left: 580px;
+    text-align: center;
+}
+
+.precious {
+    text-align: center;
+}
+
+.rounded {
+    border-radius: 50px !important;
+    float: right;
+}
+
+.footer {
+    background-color: #494949;
+}
+
+.footer p {
+    color: white;
+}
+
+
+
+
